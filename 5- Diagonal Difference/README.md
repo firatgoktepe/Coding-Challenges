@@ -3,7 +3,7 @@ Write a function called diagonalDifference which has a parameter of number array
 For example, the square arr (2D array) is shown below:
     [ [1,2,3], [4,5,6], [9,8,9] ]
 
-So it's like: " 1 2 3
+              " 1 2 3
                 4 5 6
                 9 8 9  " 
 
