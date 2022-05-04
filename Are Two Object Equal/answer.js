@@ -15,7 +15,7 @@ const isObjectsEqual = (obj1, obj2) => {
 }
 
 
-// Solution #2: Custom Approach to
+// Solution #2: Custom Approach
 // This is a more robust approach that is more readable and less hacky. It is also more efficient than the first approach.
 
 const isDeepEqual = (obj1, obj2) => {
